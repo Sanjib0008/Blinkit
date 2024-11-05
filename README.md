@@ -1,4 +1,5 @@
 # Sales Dashboard for Blinkit Data 
+![Blinkit_001](https://github.com/user-attachments/assets/a9ce3585-8c8e-4a92-95c5-3c3e5ee49c60)
 
 * Objective:**
 
