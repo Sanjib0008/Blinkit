@@ -1,11 +1,11 @@
 # Sales Dashboard for Blinkit Data 
 ![Blinkit_001](https://github.com/user-attachments/assets/a9ce3585-8c8e-4a92-95c5-3c3e5ee49c60)
 
-## ** Objective:**
+## ** Objective: **
 
   Develop an interactive platform to explore trends and analyze sales data from Blinkit.
   
-## ** Steps Involved:**
+## ** Steps Involved: **
 
     * Data Import: Gathered and imported raw sales data into the system.
     
@@ -15,7 +15,7 @@
     
     * Dashboard Creation: Designed a user-friendly, interactive dashboard to visualize and analyze key sales metrics.
       
-## ** Project Learnings:**
+## ** Project Learnings: **
 
     * Developed an engaging dashboard to effectively monitor and analyze online sales metrics.
     
